@@ -1,6 +1,6 @@
 ato-version: ^0.2.0
 builds:
   default:
-    entry: elec/src/sk6805side.ato:Sk6805side
+    entry: elec/src/sk6805side.ato:SK6805SIDE
 dependencies:
 - generics
